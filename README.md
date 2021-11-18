@@ -1,0 +1,2 @@
+# Ai-Tic-Tac-Toe-Game-Java-
+This Game is an Ai tic tic tac toe game written in java. There are two game modes, game mode 1 is in the terminal and second uses Java Swing to make a Guy version of the game with buttons. Both game modes have three options, option 1 is human vs human where two people can play against each other, option 2 is human vs ai where you can play against the computer and option 3 is ai vs ai where you can watch the computer play against itself to try and win. 
