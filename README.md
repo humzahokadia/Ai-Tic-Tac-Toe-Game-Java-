@@ -31,6 +31,10 @@ where you can play against the computer
 ### option 3 Ai vs Ai 
 where you can watch the computer play against itself to try and win.
 
+# # How The Ai Works
+I programmed the Ai to go defend against all possible attacks and to attack against all possible tic tac toe openings.
+
+
 # # How to run
 must be in the folder in terminal
 ### 1. compile all the code
